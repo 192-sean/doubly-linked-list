@@ -69,7 +69,7 @@ public:
   T removeLast(); 
   void add(T element); // add elements in alphabetical order
   void clear();
-  bool contains(T element); // Nathan
+  bool contains(T element); 
   bool isEmpty();
   int getSize();
   T removeAt(int index);
